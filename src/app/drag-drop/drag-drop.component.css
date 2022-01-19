@@ -1,0 +1,11 @@
+.card {
+  margin: 0 auto;
+  margin-top: 1rem;
+  background-color: antiquewhite;
+  padding: 0 !important;
+  height: 7rem;
+}
+
+.card-body {
+  padding: 0 !important;
+}
